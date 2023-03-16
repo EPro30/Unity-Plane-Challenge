@@ -30,7 +30,11 @@ This project was created by Riya Singh, with assets sourced from [Asset Store Li
 
 Additional Resources
 Unity Documentation: https://docs.unity3d.com/Manual/index.html
+
 Unity Asset Store: https://assetstore.unity.com/
+
 Unity Community: https://forum.unity.com/
+
 Unity Answers: https://answers.unity.com/index.html
+
 Unity Create with Code: https://learn.unity.com/course/create-with-code
