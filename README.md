@@ -1,8 +1,8 @@
-Unity Project README
+#Unity Project README
 
 This is the README file for the Unity project. This file contains important information about the project, including how to run the project, how to build the project, and where to find additional resources.
 
-Description
+##Description
 
 This folder contains various kinds of Unity Projects.
 
@@ -12,7 +12,7 @@ If you would like to run the project with the required files, please email me at
 
 
 
-Installation
+##Installation
 
 To Run the Unity projects, follow these steps:
 
@@ -31,7 +31,7 @@ Ensure that you have the correct version of Unity installed. This project was cr
 Once the project is open, you can run it in the Unity Editor by clicking on the "Play" button.
 
 
-Usage
+##Usage
 
 To use the Unity project, you can use the following controls:
 
@@ -39,17 +39,17 @@ To use the Unity project, you can use the following controls:
 Use the W, A, S, and D or up, down, right, and left keys to move the player
 
 
-Building
+##Building
 
 To build the Unity project, follow these steps:
 
 
-Credits
+##Credits
 
 This project was created by Riya Singh, with assets sourced from https://assetstore.unity.com.
 
 
-Additional Resources
+##Additional Resources
 
 Unity Documentation: https://docs.unity3d.com/Manual/index.html
 
