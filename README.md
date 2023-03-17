@@ -4,7 +4,7 @@ This is the README file for the Unity project. This file contains important info
 
 Description
 
-The Unity project folder contains various kinds of Unity Projects.
+This folder contains various kinds of Unity Projects.
 
 Each sub-folder contains main C# scripts and screenshots of the working project. There are several other files required to run the actual project.
 
